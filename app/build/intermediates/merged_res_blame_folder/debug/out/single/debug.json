@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_music.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\music.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_start.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\start.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_folder.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-hdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_icon_musicapp.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\mipmap-xhdpi\\icon_musicapp.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_file.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-xhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_folder.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-xhdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_icon_musicapp.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\mipmap-hdpi\\icon_musicapp.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_folder.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-mdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_icon_musicapp.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\mipmap-xxhdpi\\icon_musicapp.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_musiclist.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\activity_musiclist.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_folder.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-xxhdpi\\folder.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_player.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\activity_player.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_choosedirectory.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\activity_choosedirectory.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_file.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-mdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_unlove.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\unlove.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_love.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\love.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_shutdown.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\shutdown.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_play.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\play.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxxhdpi_disk.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-xxxhdpi\\disk.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_pause.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\pause.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_file.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-xxhdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_icon_musicapp.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\mipmap-mdpi\\icon_musicapp.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_icon_musicapp.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\icon_musicapp.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_isloop.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\isloop.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_loop.jpg.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable\\loop.jpg"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_file_item.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\file_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_favorite_item.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\favorite_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_file.png.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\drawable-hdpi\\file.png"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\build\\intermediates\\merged_res\\debug\\layout_music_item.xml.flat",
+        "source": "C:\\Users\\19057\\Documents\\Codefield\\CODE_ANDROID\\MusicApp\\app\\src\\main\\res\\layout\\music_item.xml"
+    }
+]

@@ -1,0 +1,102 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.musicapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="32" />
+9-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:5:5-80
+11-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:5:22-77
+12
+13    <application
+13-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:7:5-45:19
+14        android:name="org.litepal.LitePalApplication"
+14-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:8:9-54
+15        android:allowBackup="true"
+15-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.7.0] C:\Users\19057\.gradle\caches\transforms-3\adacc4bbdca3c037c01e5031782c646c\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/icon_musicapp"
+18-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:10:9-45
+19        android:label="@string/app_name"
+19-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:11:9-41
+20        android:supportsRtl="true"
+20-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:12:9-35
+21        android:testOnly="true"
+22        android:theme="@style/AppTheme" >
+22-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:13:9-40
+23        <activity
+23-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:14:9-22:20
+24            android:name="com.example.musicapp.activity.StartActivity"
+24-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:15:13-51
+25            android:exported="true"
+25-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:17:13-36
+26            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen" >
+26-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:16:13-74
+27            <intent-filter>
+27-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:18:13-21:29
+28                <action android:name="android.intent.action.MAIN" />
+28-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:19:17-69
+28-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:19:25-66
+29
+30                <category android:name="android.intent.category.LAUNCHER" />
+30-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:20:17-77
+30-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:20:27-74
+31            </intent-filter>
+32        </activity>
+33        <activity
+33-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:23:9-25:51
+34            android:name="com.example.musicapp.activity.BaseActivity"
+34-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:24:13-50
+35            android:launchMode="singleInstance" />
+35-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:25:13-48
+36        <activity
+36-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:26:9-28:51
+37            android:name="com.example.musicapp.activity.PlayerActivity"
+37-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:27:13-52
+38            android:launchMode="singleInstance" />
+38-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:28:13-48
+39        <activity
+39-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:29:9-31:51
+40            android:name="com.example.musicapp.activity.ChooseDirectoryActivity"
+40-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:30:13-61
+41            android:launchMode="singleInstance" />
+41-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:31:13-48
+42        <activity
+42-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:32:9-34:51
+43            android:name="com.example.musicapp.activity.MusicListActivity"
+43-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:33:13-55
+44            android:launchMode="singleInstance" />
+44-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:34:13-48
+45
+46        <service
+46-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:36:9-39:39
+47            android:name="com.example.musicapp.service.MyMusicService"
+47-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:37:13-51
+48            android:enabled="true"
+48-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:38:13-35
+49            android:exported="true" />
+49-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:39:13-36
+50
+51        <activity
+51-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:41:9-42:51
+52            android:name="com.example.musicapp.activity.SettingActivity"
+52-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:41:19-59
+53            android:launchMode="singleInstance" />
+53-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:42:13-48
+54        <activity
+54-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:43:9-44:51
+55            android:name="com.example.musicapp.activity.FavoriteActivity"
+55-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:43:19-60
+56            android:launchMode="singleInstance" />
+56-->C:\Users\19057\Documents\Codefield\CODE_ANDROID\MusicApp\app\src\main\AndroidManifest.xml:44:13-48
+57    </application>
+58
+59</manifest>

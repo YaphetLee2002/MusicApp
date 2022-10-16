@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.musicapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="32" />
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <application
+        android:name="org.litepal.LitePalApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/icon_musicapp"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.musicapp.activity.StartActivity"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.NoActionBar.Fullscreen" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.musicapp.activity.BaseActivity"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="com.example.musicapp.activity.PlayerActivity"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="com.example.musicapp.activity.ChooseDirectoryActivity"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="com.example.musicapp.activity.MusicListActivity"
+            android:launchMode="singleInstance" />
+
+        <service
+            android:name="com.example.musicapp.service.MyMusicService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <activity
+            android:name="com.example.musicapp.activity.SettingActivity"
+            android:launchMode="singleInstance" />
+        <activity
+            android:name="com.example.musicapp.activity.FavoriteActivity"
+            android:launchMode="singleInstance" />
+    </application>
+
+</manifest>
